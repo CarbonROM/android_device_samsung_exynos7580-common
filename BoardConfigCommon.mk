@@ -22,3 +22,6 @@ VENDOR_PATH := device/samsung/exynos7580-common
 ifeq ($(WITH_TWRP),true)
 include $(VENDOR_PATH)/twrp.mk
 endif
+
+#Camera
+TARGET_NEEDS_LEGACY_CAMERA_HAL1_DYN_NATIVE_HANDLE := true
