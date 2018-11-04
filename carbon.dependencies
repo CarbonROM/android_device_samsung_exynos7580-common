@@ -1,25 +1,28 @@
 [
     {
-    	"remote": "github",
-        "repository": "PixelBoot/android_hardware_samsung",
+        "repository": "Exynos7580/android_hardware_samsung",
         "target_path": "hardware/samsung"
-        "revision": "cr-6.1"
+	"revision": "lineage-15.1"
     },
     {
-        "repository": "android_hardware_samsung_slsi-cm_exynos",
+        "repository": "TeamNexus/android_hardware_samsung_slsi-cm_exynos",
         "target_path": "hardware/samsung_slsi-cm/exynos"
+	"revision": "nx-8.1"
     },
     {
-        "repository": "android_hardware_samsung_slsi-cm_exynos5",
+        "repository": "TeamNexus/android_hardware_samsung_slsi-cm_exynos5",
         "target_path": "hardware/samsung_slsi-cm/exynos5"
+	"revision": "nx-8.1"
     },
     {
 	"remote": "github",
         "repository": "Exynos7580/android_hardware_samsung_slsi-cm_exynos7580",
         "target_path": "hardware/samsung_slsi-cm/exynos7580"
+	"revision": "lineage-15.1"
     },
     {
-        "repository": "android_hardware_samsung_slsi-cm_openmax",
+        "repository": "TeamNexus/android_hardware_samsung_slsi-cm_openmax",
         "target_path": "hardware/samsung_slsi-cm/openmax"
+	"revision": "nx-8.1"
     }
 ]
