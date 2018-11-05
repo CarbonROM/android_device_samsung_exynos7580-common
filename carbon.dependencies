@@ -1,9 +1,9 @@
 [
     {
         "remote" : "gh",
-	"repository": "Exynos7580/android_hardware_samsung",
+	"repository": "PixelBoot/android_hardware_samsung",
         "target_path": "hardware/samsung",
-	"revision": "lineage-15.1"
+	"revision": "cr-6.1"
     },
     {
         "remote" : "gh",
